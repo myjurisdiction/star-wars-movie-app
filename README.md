@@ -52,6 +52,16 @@ The intention was to create a simple and usable application that fulfills all th
 
 ---
 
+## Screen shots of Vovie list page
+
+<img width="466" height="547" alt="image" src="https://github.com/user-attachments/assets/fbb693ff-adcd-4c49-80fc-44c34aed001e" />
+
+
+## Movie Details Page
+
+<img width="383" height="754" alt="image" src="https://github.com/user-attachments/assets/feb5dbf8-b127-4af2-8745-918c014113fa" />
+
+
 ## How to Run This Project
 
 1. **Clone the Repository**
